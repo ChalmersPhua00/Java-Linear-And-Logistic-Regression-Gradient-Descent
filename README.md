@@ -21,4 +21,4 @@ Note: JDK 11 might be required to run the program.
   - M.A., Mathematics, Applied, University of California, San Diego (Algorithms and Mathematical Statistics)
 - Credited for:
   - MultiPlotter3
-  <sub>- testA.txt, testB.txt, testC.txt, usedCarsOneData.csv, usedCarsTwoData.csv</sub>
+  - <sub>testA.txt, testB.txt, testC.txt, usedCarsOneData.csv, usedCarsTwoData.csv</sub>
