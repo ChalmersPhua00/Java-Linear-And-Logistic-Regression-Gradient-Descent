@@ -9,4 +9,8 @@ Dataset References:
 1. Heart Failure Clinical Records Dataset.xlsx --> https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records (UC Irvine Machine Learning Repository)
 2. Melbourne Rain Prediction 1-7-08 to 30-11-08.xlsx & Perth Rain Prediction 1-7-08 to 30-11-08.xlsx --> https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package (Kaggle)
 
-A
+usedCarsOne.java (Brute force) / usedCarsOneTernarySearch.java (Ternary Search)
+--Given a dataset of 1 independent variable and 1 dependent variable, train a model to provide 1 threshold value for the independent variable such that it maximizes the accuracy of the prediction.
+
+usedCarsTwo.java (Brute force) / usedCarsTwoTernarySearch.java (Ternary Search)
+--Given a dataset of 2 independent variables and 1 dependent variable, train a model to provide 2 threshold values for each of the 2 independent variables such that it maximizes the accuracy of the prediction.
