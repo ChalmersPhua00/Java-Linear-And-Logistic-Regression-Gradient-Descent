@@ -15,6 +15,8 @@ Note: JDK 11 might be required to run the program.
 #### usedCarsTwo.java (Brute force) / usedCarsTwoTernarySearch.java (Ternary Search)
 - Given a dataset of 2 independent variables and 1 dependent variable, train a model to provide 2 threshold values for each of the 2 independent variables such that it maximizes the accuracy of the prediction.
 
+___________________________________________________________________________________________________________________________________________________________
+
 <sub>Research Mentor: Steve Bearman (Peninsula College Instructor)</sub>
 - <sub>Education/Training/Credentials:</sub>
   - <sub>S.B., Mathematics, Massachusetts Institute of Technology</sub>
