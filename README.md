@@ -16,9 +16,9 @@ Note: JDK 11 might be required to run the program.
 - Given a dataset of 2 independent variables and 1 dependent variable, train a model to provide 2 threshold values for each of the 2 independent variables such that it maximizes the accuracy of the prediction.
 
 <sub>Research Mentor: Steve Bearman (Peninsula College Instructor)</sub>
-- Education/Training/Credentials:
-  - S.B., Mathematics, Massachusetts Institute of Technology
-  - M.A., Mathematics, Applied, University of California, San Diego (Algorithms and Mathematical Statistics)
-- Credited for:
-  - MultiPlotter3
+- <sub>Education/Training/Credentials:</sub>
+  - <sub>S.B., Mathematics, Massachusetts Institute of Technology</sub>
+  - <sub>M.A., Mathematics, Applied, University of California, San Diego (Algorithms and Mathematical Statistics)</sub>
+- <sub>Credited for:</sub>
+  - <sub>MultiPlotter3</sub>
   - <sub>testA.txt, testB.txt, testC.txt, usedCarsOneData.csv, usedCarsTwoData.csv</sub>
