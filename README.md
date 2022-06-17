@@ -19,3 +19,6 @@ Research Mentor: Steve Bearman (Peninsula College Instructor)
 - Education/Training/Credentials:
   - S.B., Mathematics, Massachusetts Institute of Technology
   - M.A., Mathematics, Applied, University of California, San Diego (Algorithms and Mathematical Statistics)
+- Credited for:
+  - MultiPlotter3
+  - testA.txt, testB.txt, testC.txt, usedCarsOneData.csv, usedCarsTwoData.csv
