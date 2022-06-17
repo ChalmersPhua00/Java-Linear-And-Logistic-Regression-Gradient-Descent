@@ -13,7 +13,7 @@ usedCarsOne.java (Brute force) / usedCarsOneTernarySearch.java (Ternary Search)
 - Given a dataset of 1 independent variable and 1 dependent variable, train a model to provide 1 threshold value for the independent variable such that it maximizes the accuracy of the prediction.
 
 usedCarsTwo.java (Brute force) / usedCarsTwoTernarySearch.java (Ternary Search)
--Given a dataset of 2 independent variables and 1 dependent variable, train a model to provide 2 threshold values for each of the 2 independent variables such that it maximizes the accuracy of the prediction.
+- Given a dataset of 2 independent variables and 1 dependent variable, train a model to provide 2 threshold values for each of the 2 independent variables such that it maximizes the accuracy of the prediction.
 
 Research Mentor: Steve Bearman (Peninsula College Instructor)
 Education/Training/Credentials:
