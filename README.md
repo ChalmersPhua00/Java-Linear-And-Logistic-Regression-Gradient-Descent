@@ -16,7 +16,7 @@ Note: JDK 11 might be required to run the program.
 - Given a dataset of 2 independent variables and 1 dependent variable, train a model to provide 2 threshold values for each of the 2 independent variables such that it maximizes the accuracy of the prediction.
 
 ## Regression
-Both LinearRegression.java and LogisticRegression.java allows multiple independent variables
+- Both LinearRegression.java and LogisticRegression.java allows multiple independent variables
 
 ___________________________________________________________________________________________________________________________________________________________
 
