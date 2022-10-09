@@ -20,7 +20,7 @@ Note: JDK 11 might be required to run the program.
 
 ___________________________________________________________________________________________________________________________________________________________
 
-<sub>Research Mentor: Steve Bearman (Peninsula College Instructor)</sub>
+<sub>Research Mentor: Steve Bearman (Peninsula College Faculty)</sub>
 - <sub>Education/Training/Credentials:</sub>
   - <sub>S.B., Mathematics, Massachusetts Institute of Technology</sub>
   - <sub>M.A., Mathematics, Applied, University of California, San Diego (Algorithms and Mathematical Statistics)</sub>
