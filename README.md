@@ -1,4 +1,4 @@
-# Regression-using-Gradient-Descent (Java)
+# Regression: Gradient Descent with Java
 A Machine Learning research on Regression using Gradient Descent.
 
 ___________________________________________________________________________________________________________________________________________________________
