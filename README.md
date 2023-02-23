@@ -19,15 +19,14 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
 ## FAQs
-How to add JFreeChart library in IntelliJ?
+- How to add JFreeChart library in IntelliJ?
 1. Select File > Project Structure > Project Structure > Project Settings > Libraries
 2. Click + then select "From Maven"
 3. From the "Download Library from Maven Repository" search box, enter org.jfree:jfreechart:1.5.0 
 4. Press the magnifying glass to search
 6. Press OK
 
-How to access downloaded csv file from Mac?
-Example.
-getDataFromCSV("/Users/.../Downloads/data.csv");
+- How to access downloaded csv file from Mac?
+Example: getDataFromCSV("/Users/.../Downloads/data.csv");
 
 Note: Remove the first row of labels from the csv files
