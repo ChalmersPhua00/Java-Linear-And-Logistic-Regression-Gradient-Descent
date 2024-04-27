@@ -1,5 +1,5 @@
-# Regression: Gradient Descent with Java
-A Machine Learning research on Regression using Gradient Descent.
+# Java Linear and Logistic Regression using Gradient Descent
+An implementation of linear and logistic regression using gradient descent in Java
 
 ___________________________________________________________________________________________________________________________________________________________
 
